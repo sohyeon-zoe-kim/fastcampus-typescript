@@ -6,9 +6,7 @@ const personal = {
 
 // create by Object.create
 const person2 = Object.create({
-	name: 'mark',
-	age: 39,
-})
+	name: 'mark', 
 
 let obj2: object = {}
 
