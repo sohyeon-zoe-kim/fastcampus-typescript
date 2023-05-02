@@ -1,0 +1,1 @@
+const test: number = undefined // Type 'undefined' is not assignable to type 'number'.ts(2322)

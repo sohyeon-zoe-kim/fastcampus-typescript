@@ -5,6 +5,7 @@
 - [Ch1. - TypeScript](https://tree-buckthorn-371.notion.site/Ch1-TypeScript-db47b286364a489585fe5e10dae540eb)
 - [Ch2. - Basic Types](https://tree-buckthorn-371.notion.site/Ch2-Basic-Types-c7ba99f6ce484bf3890448aaae5d5b72)
 - [Ch3. - Type System](https://tree-buckthorn-371.notion.site/Ch3-Type-System-c024f09b33b14fa19ed2026432662a09)
+- [Ch4. - TypeScript Compiler](https://tree-buckthorn-371.notion.site/Ch4-TypeScript-Compiler-17e6f15622a343eeb9ada70b040a2b01)
 
 
 ### 강의 주소
