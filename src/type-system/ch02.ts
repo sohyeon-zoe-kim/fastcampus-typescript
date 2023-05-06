@@ -25,4 +25,4 @@ function PersonId(id: string): PersonId {
 function getPersonById(od: PersonId) {}
 
 getPersonById(PersonId('id-aaaaa'))
-getPersonById('id-aaaaa') // error TS2345: Argument of type 'string' is not assignable to parameter of type 'PersonId'. Type 'string' is not assignable to type '{ readonly brand: unique symbol; }'.
+// getPersonById('id-aaaaa') // error TS2345: Argument of type 'string' is not assignable to parameter of type 'PersonId'. Type 'string' is not assignable to type '{ readonly brand: unique symbol; }'.

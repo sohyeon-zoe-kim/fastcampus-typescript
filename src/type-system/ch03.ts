@@ -2,15 +2,15 @@
 /** 서브 타입, 슈퍼 타입 예제(1) */
 let sub1: 1 = 1
 let sup1: number = sub1
-sub1 = sup1
+// sub1 = sup1
 
 let sub2: number[] = [1]
 let sup2: object = sub2
-sub2 = sup2
+// sub2 = sup2
 
 let sub3: [number, number] = [1, 2]
 let sup3: number[] = sub3
-sub3 = sup3
+// sub3 = sup3
 
 /** 서브 타입, 슈퍼 타입 예제(2) */
 let sub4: number = 1
@@ -19,7 +19,7 @@ sub4 = sup4
 
 let sub5: never = 0 as never
 let sup5: number = sub5
-sub5 = sup5
+// sub5 = sup5
 
 /** 공변 법칙 */
 // primitive type
@@ -57,6 +57,6 @@ tellme(function pToD(d: Person): Developer {
 })
 
 // Developer => Developer 에다가 startupDevelop => Developer를 할당한 경우
-tellme(function sToD(d: StartupDeveloper): Developer {
-  return new Developer()
-})
+// tellme(function sToD(d: StartupDeveloper): Developer {
+//   return new Developer()
+// })
