@@ -8,5 +8,6 @@
 - [Ch4. - TypeScript Compiler](https://tree-buckthorn-371.notion.site/Ch4-TypeScript-Compiler-17e6f15622a343eeb9ada70b040a2b01)
 
 
-### 강의 주소
-[패스트캠퍼스(click)](https://fastcampus.co.kr/dev_online_frontend)
+### 관련 자료
+- [패스트캠퍼스 인강(click)](https://fastcampus.co.kr/dev_online_frontend)  
+- [tsconfig schema](http://json.schemastore.org/tsconfig)
